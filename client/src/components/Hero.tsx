@@ -91,7 +91,7 @@ export default function Hero() {
             <div className="relative overflow-hidden rounded-[2rem] border border-white/10 bg-card/70 p-4 shadow-[0_30px_80px_rgba(0,0,0,0.45)] backdrop-blur-xl">
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(168,85,247,0.18),transparent_42%)]" />
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQE5F-QSj-DLkQ/profile-displayphoto-shrink_400_400/B56ZPk7FhDGsAg-/0/1734712516083?e=2147483647&v=beta&t=3_cLslc7c-J4JBMPw9qj2VjrQFf5qF5AKB-drAKmxJA"
+                src="https://media.licdn.com/dms/image/v2/D5603AQEf36oZN18e_Q/profile-displayphoto-crop_800_800/B56Z.xeVR2GUAI-/0/1785388947604?e=1787184000&v=beta&t=Ymy-oOiItWSxLkTM3ISMYKhLiCQU8XvJCCRZf66CrJ0"
                 alt="Umme Homaira Saika Afsar"
                 className="relative z-10 aspect-[4/5] w-full rounded-[1.5rem] object-cover"
               />

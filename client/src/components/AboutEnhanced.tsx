@@ -60,7 +60,7 @@ export default function AboutEnhanced() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-primary/10 rounded-full blur-2xl glow-effect"></div>
                 <img
-                  src="https://media.licdn.com/dms/image/v2/D5603AQE5F-QSj-DLkQ/profile-displayphoto-shrink_400_400/B56ZPk7FhDGsAg-/0/1734712516083?e=2147483647&v=beta&t=3_cLslc7c-J4JBMPw9qj2VjrQFf5qF5AKB-drAKmxJA"
+                  src="https://media.licdn.com/dms/image/v2/D5603AQEf36oZN18e_Q/profile-displayphoto-crop_800_800/B56Z.xeVR2GUAI-/0/1785388947604?e=1787184000&v=beta&t=Ymy-oOiItWSxLkTM3ISMYKhLiCQU8XvJCCRZf66CrJ0"
                   alt="Umme Homaira Saika Afsar"
                   className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover border-4 border-primary/30 shadow-2xl float-effect"
                 />

@@ -117,10 +117,6 @@ export default function Footer() {
               </p>
               <div className="flex flex-col items-center md:items-end gap-1 text-center md:text-right">
                 <p>
-                  Crafted with care for meaningful impact in international
-                  development.
-                </p>
-                <p>
                   Developed by{" "}
                   <a
                     href="https://www.linkedin.com/in/shaharabi/"
@@ -128,7 +124,9 @@ export default function Footer() {
                     rel="noopener noreferrer"
                     className="text-foreground/80 hover:text-foreground transition-smooth"
                   >
-                    Gazi Shaharabi Anwar Tuhn
+                    <span className="text-violet-600 font-bold">
+                      Gazi Shaharabi Anwar Tuhin
+                    </span>
                   </a>
                 </p>
               </div>
